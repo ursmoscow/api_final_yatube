@@ -3,7 +3,6 @@ from rest_framework import viewsets, filters, mixins, status
 from rest_framework.response import Response
 from django.shortcuts import get_object_or_404
 from rest_framework.pagination import LimitOffsetPagination
-from rest_framework.exceptions import ValidationError
 from rest_framework.permissions import (
     IsAuthenticatedOrReadOnly,
     IsAuthenticated,
