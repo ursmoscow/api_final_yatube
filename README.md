@@ -1,14 +1,12 @@
 # API_FINAL_YATUBE 
 
-API_Final - законченная версия API для yatube. 
-
-Стек: Python 3.7, Django Rest Framework, SQLite
+API_Final - API для yatube. 
 
 # Как запустить проект:
 
 - Клонировать репозиторий и перейти в него в командной строке:
 ```
-git@github.com:LazarevaKate/api_final_yatube.git
+git@github.com:ursmoscow/api_final_yatube.git
 ```
 
 - Cоздать и активировать виртуальное окружение:
